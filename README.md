@@ -7,13 +7,13 @@ O usuário pode selecionar itens, adicionar ao carrinho e ver o valor total send
 
 ## 📋 Índice
 
-- [Sobre o projeto](#sobre-o-projeto)
+- [Sobre o projeto](#-sobre-o-projeto)
 - [Preview](#%EF%B8%8F-preview)
-- [Tecnologias utilizadas](#tecnologias-utilizadas)
+- [Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [Funcionalidades](#%EF%B8%8Ffuncionalidades)
-- [Como executar o projeto](#como-executar-o-projeto)
-- [Estrutura de pastas](#estrutura-de-pastas)
-- [Aprendizados](#aprendizados)
+- [Como executar o projeto](#-como-executar-o-projeto)
+- [Estrutura de pastas](#-estrutura-de-pastas)
+- [Aprendizados](#-aprendizados)
 - [Autor](#%E2%80%8D-autor)
 
 ---
